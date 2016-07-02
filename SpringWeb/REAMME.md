@@ -10,3 +10,11 @@ mvn tomcat7:redeploy
 http://localhost:8080/springWebApp/HelloDispatcherServlet/hello
 http://localhost:8080/springWebApp/HelloJavaServlet
 http://localhost:8080/springWebApp/
+
+####################################
+Spring boot
+####################################
+mvn spring-boot:run 
+
+required lib
+commons-logging 
